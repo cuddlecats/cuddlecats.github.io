@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cuddle Cats Team</title>
+    <link href="https://cuddlecats.github.io/feed.xml" rel="self" />
+    <link href="https://cuddlecats.github.io" />
+    <updated>2019-02-22T08:47:29+03:00</updated>
+    <author>
+        <name>Mikhail P</name>
+    </author>
+    <id>https://cuddlecats.github.io</id>
+
+    <entry>
+        <title>Cozy House Generator</title>
+        <author>
+            <name>Mikhail P</name>
+        </author>
+        <link href="https://cuddlecats.github.io/cozy-house-generator.html"/>
+        <id>https://cuddlecats.github.io/cozy-house-generator.html</id>
+
+        <updated>2019-02-22T08:47:19+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cuddlecats.github.io/media/posts/1/site_fullhd.png" alt="" />
+                    Cozy House is a solution for procedural generating houses that will allow you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cuddlecats.github.io/media/posts/1/site_fullhd.png" alt="" />
+                <strong>Cozy House</strong> is a solution for procedural generating houses that will allow you to create random houses during the game!<br><br><strong>HIGHLIGHTS </strong><br>- Full Source code included<br>- Interiors<br>- Flexible furniture installation rules<br>- Customized generation pipeline<br>- Easy and convenient UI for quick setup.<br>- Can save and transfer at home using SEED numbers<br>- Well-developed and easily extensible architecture<br>- Great documentation
+<p><strong>Asset Store</strong> - coming soon.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/examples.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/examples-thumbnail.png" alt="" width="768" height="428"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/HouseGenerator_main.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/HouseGenerator_main-thumbnail.png" alt="" width="768" height="477"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/Seed.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/Seed-thumbnail.png" alt="" width="768" height="477"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/Pipeline.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/Pipeline-thumbnail.png" alt="" width="768" height="477"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/Interior.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/Interior-thumbnail.png" alt="" width="768" height="477"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/props_main.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/props_main-thumbnail.png" alt="" width="768" height="535"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/props_requirements.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/props_requirements-thumbnail.png" alt="" width="768" height="535"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/sub_props_system.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/sub_props_system-thumbnail.png" alt="" width="768" height="592"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/cell.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/cell-thumbnail.png" alt="" width="768" height="537"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/documentation.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/documentation-thumbnail.png" alt="" width="768" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/1/gallery/source_code.png" ><img src="https://cuddlecats.github.io/media/posts/1/gallery/source_code-thumbnail.png" alt="" width="768" height="560"></a></figure>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Weapon Survival Pack</title>
+        <author>
+            <name>Mikhail P</name>
+        </author>
+        <link href="https://cuddlecats.github.io/guns-survival-pack.html"/>
+        <id>https://cuddlecats.github.io/guns-survival-pack.html</id>
+
+        <updated>2019-02-16T19:26:59+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cuddlecats.github.io/media/posts/2/assault-rifle-ak-3d-model-low-poly-fbx.jpg" alt="" />
+                    Highlights: Includes: Asset Store: coming soon... CGTrader
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cuddlecats.github.io/media/posts/2/assault-rifle-ak-3d-model-low-poly-fbx.jpg" alt="" />
+                <p><strong>Highlights:</strong></p>
+<ul>
+<li>Low-poly</li>
+<li>PBR</li>
+<li>Hi-Res Textures</li>
+<li>UV</li>
+<li>Vertices: 60,354 <strong>per package</strong></li>
+</ul>
+<p><strong>Includes:</strong></p>
+<ul>
+<li>AK-47</li>
+<li>PM (pistol)</li>
+<li>Crafted Bow</li>
+<li>Bayonet Knife</li>
+<li>RGD-5 (grenade)</li>
+<li>Smoke grenade</li>
+</ul>
+<p> </p>
+<p>Asset Store: coming soon...</p>
+<p><a href="https://www.cgtrader.com/3d-models/military/gun/pak-survivor-gun" target="_blank" rel="noopener noreferrer">CGTrader</a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-12.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-12-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-5.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-5-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-11.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-11-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-1.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-1-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-7.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-7-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-3.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-3-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-8.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-8-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-4.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-4-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-10.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-10-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-9.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-9-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-2.jpg" ><img src="https://cuddlecats.github.io/media/posts/2/gallery/survival-guns-pack-low-poly-3d-models-3d-model-low-poly-fbx-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AK-12 Free Asset</title>
+        <author>
+            <name>Mikhail P</name>
+        </author>
+        <link href="https://cuddlecats.github.io/ak-12-free-asset.html"/>
+        <id>https://cuddlecats.github.io/ak-12-free-asset.html</id>
+
+        <updated>2019-02-16T19:24:05+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cuddlecats.github.io/media/posts/3/ak-103-3d-model-low-poly-fbx-11.jpg" alt="" />
+                    Highlights: Includes: Asset Store: coming soon... CGTrader
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cuddlecats.github.io/media/posts/3/ak-103-3d-model-low-poly-fbx-11.jpg" alt="" />
+                <p><strong>Highlights:</strong></p>
+<ul>
+<li>Low-poly</li>
+<li>PBR</li>
+<li>Hi-Res Textures</li>
+<li>UV</li>
+<li>Vertices: 9,638</li>
+</ul>
+<p><strong>Includes:</strong></p>
+<ul>
+<li>AK-12</li>
+</ul>
+<p> </p>
+<p>Asset Store: coming soon...</p>
+<p><a href="https://www.cgtrader.com/free-3d-models/military/gun/ak-103-42170499-df73-42d5-a23c-c67d95228e69" target="_blank" rel="noopener noreferrer">CGTrader</a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-1.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-1-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-5.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-5-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-16.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-16-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-2.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-2-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-14.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-14-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-15.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-15-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-3.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-3-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-4.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-4-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-6.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-6-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-7.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-7-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-8.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-8-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-9.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-9-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-10.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-10-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-11.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-11-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-12.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-12-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-13.jpg" ><img src="https://cuddlecats.github.io/media/posts/3/gallery/ak-103-3d-model-low-poly-fbx-13-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
